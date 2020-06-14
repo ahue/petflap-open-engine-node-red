@@ -1,0 +1,11 @@
+[
+  "vue",
+  "bootstrap",
+  "bootstrap-vue",
+  "socket.io",
+  "bootstrap-icons",
+  "vue-router",
+  "vuex",
+  "vue-axios",
+  "moment"
+]
